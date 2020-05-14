@@ -36,6 +36,7 @@ class Editor extends React.Component {
                     <this.ReactMarkdown escapeHtml={false} rawSourcePos={true} source={this.state.value} />
 
                 </div>
+                <div contentEditable="true">test</div>
             </div>
 
         );

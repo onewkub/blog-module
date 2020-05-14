@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import  Editor  from "./components/markdown-editor/markdown-editor";
+import  Editor  from "./components/textarea-editor/markdown-editor";
 
 function App() {
   return (
